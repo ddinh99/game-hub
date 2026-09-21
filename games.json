@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "updatedAt": "2026-09-21",
+  "games": [
+    {
+      "id": "chieu-tuong",
+      "name": "Chiếu Tướng",
+      "url": "https://daigame.itch.io/chieu-tuong",
+      "glyph": "將",
+      "color": "#B4232A",
+      "tagline": {
+        "en": "Chinese Chess",
+        "es": "Ajedrez Chino",
+        "fr": "Échecs Chinois",
+        "de": "Chinesisches Schach",
+        "pt": "Xadrez Chinês",
+        "it": "Scacchi Cinesi",
+        "ru": "Китайские шахматы",
+        "tr": "Çin Satrancı",
+        "ar": "الشطرنج الصيني",
+        "hi": "चीनी शतरंज",
+        "id": "Catur Tiongkok",
+        "ja": "シャンチー（中国将棋）",
+        "zh": "中国象棋",
+        "ko": "중국 장기",
+        "vi": "Cờ Tướng"
+      }
+    },
+    {
+      "id": "gallop-king",
+      "name": "Gallop King",
+      "url": "https://daigame.itch.io/gallopking",
+      "glyph": "♞",
+      "color": "#B8860B",
+      "tagline": {
+        "en": "Ludo",
+        "es": "Ludo",
+        "fr": "Petits Chevaux",
+        "de": "Ludo",
+        "pt": "Ludo",
+        "it": "Ludo",
+        "ru": "Людо",
+        "tr": "Ludo",
+        "ar": "لودو",
+        "hi": "लूडो",
+        "id": "Ludo",
+        "ja": "ルドゲーム",
+        "zh": "飞行棋",
+        "ko": "루도",
+        "vi": "Cờ Cá Ngựa"
+      }
+    },
+    {
+      "id": "fourteen52",
+      "name": "Fourteen52",
+      "url": "https://daigame.itch.io/fourteen52",
+      "glyph": "♠",
+      "color": "#1F2937",
+      "tagline": {
+        "en": "Card Games",
+        "es": "Juegos de Cartas",
+        "fr": "Jeux de Cartes",
+        "de": "Kartenspiele",
+        "pt": "Jogos de Cartas",
+        "it": "Giochi di Carte",
+        "ru": "Карточные игры",
+        "tr": "Kart Oyunları",
+        "ar": "ألعاب الورق",
+        "hi": "ताश के खेल",
+        "id": "Permainan Kartu",
+        "ja": "カードゲーム集",
+        "zh": "纸牌游戏合集",
+        "ko": "카드 게임 모음",
+        "vi": "Bộ Sưu Tập Game Bài"
+      }
+    },
+    {
+      "id": "caro-3d",
+      "name": "Caro 3D",
+      "url": "https://daigame.itch.io/caro-3d",
+      "glyph": null,
+      "color": "#1D4ED8",
+      "tagline": {
+        "en": "3D Tic-Tac-Toe",
+        "es": "Tres en Raya 3D",
+        "fr": "Morpion 3D",
+        "de": "Drei Gewinnt 3D",
+        "pt": "Jogo da Velha 3D",
+        "it": "Tris 3D",
+        "ru": "Крестики-нолики 3D",
+        "tr": "XOX 3D",
+        "ar": "إكس أو 3D",
+        "hi": "3D टिक-टैक-टो",
+        "id": "Tic-Tac-Toe 3D",
+        "ja": "3D三目並べ",
+        "zh": "3D井字棋",
+        "ko": "3D 틱택토",
+        "vi": "Caro 3D"
+      }
+    }
+  ]
+}
