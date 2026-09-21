@@ -97,6 +97,30 @@
         "ko": "3D 틱택토",
         "vi": "Caro 3D"
       }
+    },
+      {
+      "id": "caro-3d2",
+      "name": "Caro 3D2",
+      "url": "https://caroengine.netlify.app",
+      "glyph": "*",
+      "color": "#1D4ED8",
+      "tagline": {
+        "en": "3D Tic-Tac-Toe",
+        "es": "Tres en Raya 3D",
+        "fr": "Morpion 3D",
+        "de": "Drei Gewinnt 3D",
+        "pt": "Jogo da Velha 3D",
+        "it": "Tris 3D",
+        "ru": "Крестики-нолики 3D",
+        "tr": "XOX 3D",
+        "ar": "إكس أو 3D",
+        "hi": "3D टिक-टैक-टो",
+        "id": "Tic-Tac-Toe 3D",
+        "ja": "3D三目並べ",
+        "zh": "3D井字棋",
+        "ko": "3D 틱택토",
+        "vi": "Caro 3D"
+      }
     }
   ]
 }
